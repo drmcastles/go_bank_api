@@ -59,7 +59,7 @@
 
 Запуск проекта  
 Клонирование репозитория  
-cd banking-api  
+cd go_bank_api  
 
 Установка зависимостей  
 go mod init banking-api  
